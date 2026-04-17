@@ -72,13 +72,8 @@ hotel-management-system/
 
 ## **Intro how to setup after download**
 
-[![Watch the Hotel Management System Demo]()](https://www.youtube.com/watch?v=lkSRut0upIk)
+[![Watch the Hotel Management System Demo](screenshots/login.png)](https://www.youtube.com/watch?v=lkSRut0upIk)
 
-
-
- <video src="https://www.youtube.com/watch?v=lkSRut0upIk" width="600" controls>
-  Your browser does not support the video tag.
-</video> 
 
 
 
