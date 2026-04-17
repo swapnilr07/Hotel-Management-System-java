@@ -72,7 +72,8 @@ hotel-management-system/
 
 ## **Intro how to setup after download**
 
-[![YouTube Video]([youtube.png](https://i.ibb.co/gM07cZ5w/polotno-1.png))](https://youtu.be/lkSRut0UpIk?si=z_PMDQV2CZz7Chue)
+[![YouTube Video](https://i.ibb.co/gM07cZ5w/polotno-1.png)](https://youtu.be/lkSRut0UpIk?si=z_PMDQV2CZz7Chue)
+
 
 
 
