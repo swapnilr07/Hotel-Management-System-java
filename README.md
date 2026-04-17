@@ -5,10 +5,15 @@ A complete Java desktop application for managing hotel rooms, bookings, and user
 ## Folder Structure
 ```bash
 
-hotel-management-system/
-├── HotelManagementSystem.java
-│   sqlite-jdbc-3.42.0.0.jar                       
-└── README.md
+Users/
+└── apple/
+    └── Downloads/
+        └── Hotel-Management-System-java-main/
+            ├── HotelSystem/   -- open this folder on vscode
+            │   ├── HotelManagementSystem.java
+            │   └── sqlite-jdbc-3.42.0.0.jar
+            ├── screenshots   
+            └── README.md
 ```
 
 ## Features
