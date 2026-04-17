@@ -98,7 +98,7 @@ Open a terminal/command prompt in that folder.
 
 **Path** 
 ```
-C:\Users\swapnil\Downloads\HotelSystem
+C:\Users\swapnil\Downloads/Hotel-Management-System-java-main/HotelSystem
 ```
 
 **Windows:**
@@ -111,7 +111,7 @@ java -cp ".;sqlite-jdbc-3.42.0.0.jar" HotelManagementSystem
 
 **Path** 
 ```
-/Users/apple/Downloads/HotelSystem
+/Users/apple/Downloads/Hotel-Management-System-java-main/HotelSystem
 ```
 
 **macOS/Linux:**
