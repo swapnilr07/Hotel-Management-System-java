@@ -72,9 +72,12 @@ hotel-management-system/
 
 ## **Intro how to setup after download**
 
-<video src="screenshots/intrduction.mov" width="600" controls>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lkSRut0upIk?si=e6jsTr1Mf3hMDALy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- <video src="screenshots/intrduction.mov" width="600" controls>
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 
 
